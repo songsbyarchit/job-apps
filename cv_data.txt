@@ -1,0 +1,96 @@
+﻿Archit Sachdeva
+<<<HEADLINE_PLACEHOLDER>>>
+	Contact
+142 Western Road
+Sheffield, S10 1LD
++44 7925218447
+arsachde@cisco.com
+	EXPERIENCE AND PROJECTS
+Technical Marketing Engineer (Cisco Webex)
+JULY 2024 - PRESENT
+- Led Control Hub demos and follow-up conversations at Cisco Live, answering objections and tailoring use cases to each stakeholder.
+- Designed and launched the Webex AI Lab, gathering user feedback and documenting insights to influence future labs and continue framing Webex as a platform rather than merely a product.
+KEY OUTCOMES
+- Generated qualified leads and increased product confidence through live demos that addressed technical concerns directly.  
+- Produced a feedback-driven report that shaped AI feature rollout and improved adoption by reducing onboarding friction.
+
+
+Self-Service Data Product Simulation (Independent)
+FEB 2025 - PRESENT
+– Designed a simulated ELT pipeline and dimensional model using dbt, SQL Server, and Python to power intuitive Power BI dashboards and enable self-service analytics
+KEY OUTCOMES
+– Promoted business logic into the semantic layer and developed governed models for self-service exploration  
+– Defined testing and documentation workflows to simulate data product lifecycle from development to deployment in a controlled analytics environment
+
+
+TEDx Speaker (Independent)
+JUNE 2024 – OCT 2024
+- Designed and executed a cold outreach campaign using Google Sheets and pitch testing to land TEDx talks. 
+KEY OUTCOMES
+- Booked and delivered a TEDx talk in Lodz, Poland on the importance of community, storytelling, and shared rituals in overcoming isolation and finding fulfilment.
+- Used structured outreach and exceptional storytelling skills to close the opportunity with organisers.
+
+
+AI Webex Enablement Lab (Cisco Webex)
+JAN 2025 – APR 2025
+– Built phased automation integrating SingleStore, OpenAI, Hugging Face, ngrok, with GitHub Pages & MKdocs for user-facing delivery.
+– Developed email workflows using Google Apps Script, balancing usability with spam control.  
+KEY OUTCOMES
+– Improved data accessibility across platforms and reduced blockers in Google Colab workflows  
+– Published a production-ready codebase with structured, reusable documentation
+Technical Marketing Engineer (Cisco Meraki)  
+APR 2023 – JULY 2024
+- Produced installation videos and refined product content while running beta programs and competitive analysis for upcoming Meraki features.
+KEY OUTCOMES
+- Reduced support tickets and improved onboarding by publishing clear, concise documentation and product unboxing and installation videos.  
+- Flagged usability issues during MT beta testing, helping PMs refine features to ensure a smooth and low-friction launch
+
+
+Integrated Marketing Manager (Cisco Meraki)  
+FEB 2023 - APR 2024
+- Visualized lead conversion data on a global, regional, and per-campaign basis. Collaborated with the content team and external agencies to amplify exciting case studies through video and copy.
+KEY OUTCOMES
+- Got an award for generating more than double the qualified leads of any other seller at the Education Technology event (ExCel London).
+- Launched 30+ videos on Wistia, creating a smooth experience for customers and partners to recap event messaging or new feature enablement.
+
+
+Systems Engineer & IoT TSA (Cisco Meraki)
+OCT 2021 - FEB 2023
+- Demonstrated the cutting-edge Meraki dashboard to customers and partners.
+- Created captivating video content to educate and showcase the portfolio.
+KEY OUTCOMES
+- Presented in Meraki PVT (Partner Virtual Training) to 500+ partners; supported sellers by decomposing highly technical slides into customer outcomes they can easily communicate onwards
+- Led other apprentices in video-editing based projects to deliver scalable resources for sellers to use, both for personal enablement and for sharing with the end users.
+
+
+Global Virtual Sales (Cisco)
+AUG 2021 - OCT 2021
+- Prospected and qualified leads using ZoomInfo and LinkedIn, booking meetings with tailored cold email flows. 
+KEY OUTCOMES
+- Delivered over 300 qualified leads with rapid turnaround, setting robust foundations.
+	CONTACT
+archit.sachdeva007@gmail.com
++44 7925 218447 
+Reading, UK
+linkedin.com/in/architsach
+SKILLS
+Python (pandas, Flask)  
+SQL ( PostgreSQL, Snowflake)  
+ETL/ELT (DBT, AWS Glue, Azure Data Factory)
+Data Visualisation (Looker Studio, PowerBI, Tableau)
+Public Speaking (TEDx)
+<<<SKILLS_PLACEHOLDER>>>
+
+
+STANDOUT HIGHLIGHTS
+Built Reflectify, an AI-powered journaling tool using PostgreSQL and OpenAI for personalised insights.  
+Delivered TEDx talk in Łódź, Poland, showcasing exceptional storytelling and public speaking.  
+Developed scalable ETL/ELT pipelines using AWS and dbt for Redshift & Athena analytics.  
+Created Webex AI Lab and produced feedback-driven insights that shaped product roadmap.  
+Delivered governed data products with CI/CD, documentation, and testing on cloud platforms.
+REFERENCES
+From Archit’s LinkedIn “recommendations” tab:
+“Archit consistently added value by solving difficult content challenges and executing at a high level. He brought energy and insight to every project, and I’d highly recommend for future opportunities.” — Joe Weiss, (ex) global IoT Sales Leader, Cisco Meraki 
+“Archit’s professionalism ensured that his delivery met incredibly high standards. He refined his talk through multiple rounds of feedback and gave organisers full confidence, removing all stress from the event. His clarity, structure and commitment were outstanding.” — Karol Ślasko, TEDx University of Lodz Organiser and TEDx Speaker
+“Archit is an exceptionally intelligent professional with deep technical expertise, but what truly sets him apart is his natural ability to speak confidently and effectively in public. While it can take others years to develop this skill, Archit possesses it in abundance.” —  Gary Daly, Author and UAE Account Executive, Cisco
+Further references available upon request

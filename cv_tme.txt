@@ -1,0 +1,97 @@
+﻿Archit Sachdeva
+<<<HEADLINE_PLACEHOLDER>>>
+	Contact
+142 Western Road
+Sheffield, S10 1LD
++44 7925218447
+arsachde@cisco.com
+	EXPERIENCE AND PROJECTS
+Technical Marketing Engineer (Cisco Webex)
+JULY 2024 - PRESENT
+- Led Control Hub demos and follow-up conversations at Cisco Live, answering objections and tailoring use cases to each stakeholder.
+- Designed and launched the Webex AI Lab, gathering user feedback and documenting insights to influence future labs and continue framing Webex as a platform rather than merely a product.
+KEY OUTCOMES
+- Generated qualified leads and increased product confidence through live demos that addressed technical concerns directly.  
+- Produced a feedback-driven report that shaped AI feature rollout and improved adoption by reducing onboarding friction.
+
+
+Cisco Live Lead Generation (Cisco Webex)
+JUNE 2025
+- Designed and pitched live Control Hub demos to booth visitors across multiple verticals.  
+- Proactively initiated conversations and qualified attendees using tailored discovery questions.
+KEY OUTCOMES
+- Generated over 100 leads, the highest number at our stand across all product areas.  
+- Demonstrated strong pitch delivery, objection handling, fast rapport-building, and sales-oriented initiative in a live setting.
+
+
+TEDx Speaker (Independent)
+JUNE 2025 – OCT 2025
+- Designed and executed a cold outreach campaign using Google Sheets and pitch testing to land TEDx talks. 
+KEY OUTCOMES
+- Booked and delivered a TEDx talk in Lodz, Poland on the importance of community, storytelling, and shared rituals in overcoming isolation and finding fulfilment.
+- Used structured outreach and exceptional storytelling skills to close the opportunity with organisers.
+
+
+Technical Marketing Engineer (Cisco Meraki)  
+APR 2023 – JULY 2024
+- Produced installation videos and refined product content while running beta programs and competitive analysis for upcoming Meraki features.
+KEY OUTCOMES
+- Reduced support tickets and improved onboarding by publishing clear, concise documentation and product unboxing and installation videos.  
+- Flagged usability issues during MT beta testing, helping PMs refine features to ensure a smooth and low-friction launch
+Integrated Marketing Manager (Cisco Meraki)  
+FEB 2023 - APR 2024
+- Visualized lead conversion data on a global, regional, and per-campaign basis.
+- Worked closely with the content team and external agencies to amplify exciting case studies through video and copy.
+KEY OUTCOMES
+- Got an award for generating more than double the qualified leads of any other seller at the Education Technology event (ExCel London).
+- Launched 30+ videos on Wistia, creating a smooth experience for customers and partners to recap event messaging or new feature enablement.
+
+
+Systems Engineer & IoT TSA (Cisco Meraki)
+OCT 2021 - FEB 2023
+- Demonstrated the cutting-edge Meraki dashboard to customers and partners.
+- Created captivating video content to educate and showcase the portfolio.
+KEY OUTCOMES
+- Presented in Meraki PVT (Partner Virtual Training) to 500+ partners; supported sellers by decomposing highly technical slides into customer outcomes they can easily communicate onwards
+- Led other apprentices in video-editing based projects to deliver scalable resources for sellers to use, both for personal enablement and for sharing with the end users.
+
+
+Content Creator & Storytelling Consultant (Independent)
+JAN 2022 – PRESENT
+- Shared unique storytelling and public speaking insights across LinkedIn and YouTube. 
+KEY OUTCOMES
+- Consulted thought leaders and viral YouTubers; co-crafted and helped rehearse pitches and scripts (for speeches and videos respectively)
+- Developed a repeatable content system for turning personal experience into audience-relevant content across platforms.
+
+
+Global Virtual Sales (Cisco)
+AUG 2021 - OCT 2021
+- Prospected and qualified leads using ZoomInfo and LinkedIn, booking meetings with tailored cold email flows. 
+KEY OUTCOMES
+- Delivered over 300 qualified leads with rapid turnaround and zero outreach lag.  
+- Built strong grounding in Cisco’s partner-led model, feeding into future technical sales roles.
+	CONTACT
+archit.sachdeva007@gmail.com
++44 7925 218447 
+Reading, UK
+linkedin.com/in/architsach
+SKILLS
+Go-to-Market Strategy
+Sales Enablement & Campaign Content  
+Customer Education & Retention  
+Public Speaking (TEDx)
+Pitch Development & Live Delivery  
+<<<SKILLS_PLACEHOLDER>>>
+STANDOUT HIGHLIGHTS
+Delivered TEDx talk in Łódź, Defined product messaging and pitched live at Cisco Live, generating 100+ leads—highest across the portfolio stand.
+Created content and enablement guides for technical products, reducing onboarding friction and supporting global teams.
+Turned beta insights from 50+ users into one-pagers and briefings that helped shape product launch priorities.
+Ran outbound strategy to secure and deliver TEDx talk, applying cold campaign tactics and audience-focused storytelling.
+Produced targeted demos, sales decks, and follow-up content used across institutional, technical, and commercial buyers.
+Worked with product and marketing leads to align feedback loops with launch materials and education tools.
+REFERENCES
+From Archit’s LinkedIn “recommendations” tab:
+“Archit consistently added value by solving difficult content challenges and executing at a high level. He brought energy and insight to every project, and I’d highly recommend for future opportunities.” — Joe Weiss, (ex) global IoT Sales Leader, Cisco Meraki 
+“Archit’s professionalism ensured that his delivery met incredibly high standards. He refined his talk through multiple rounds of feedback and gave organisers full confidence, removing all stress from the event. His clarity, structure and commitment were outstanding.” — Karol Ślasko, TEDx University of Lodz Organiser and TEDx Speaker
+“Archit is an exceptionally intelligent professional with deep technical expertise, but what truly sets him apart is his natural ability to speak confidently and effectively in public. While it can take others years to develop this skill, Archit possesses it in abundance. Combined with his relentless curiosity and genuine desire to support those around him, this makes him a powerful asset to any organisation.” — Gary Daly, Author and UAE Account Executive, Cisco
+Further references available upon request
