@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <h2>Generate Tailored CV + Cover Letter</h2>
+    <form method="POST">
+      <label>Job Title:</label><br>
+      <input type="text" name="job_title" required><br><br>
+
+      <label>Company Name:</label><br>
+      <input type="text" name="company" required><br><br>
+
+      <label>CV Type:</label><br>
+      <select name="cv_type">
+        <option value="TME">TME</option>
+        <option value="Data">Data</option>
+        <option value="Systems">Systems</option>
+        <option value="SDR">SDR</option>
+      </select><br><br>
+
+      <label>Job Description:</label><br>
+      <textarea name="job_description" rows="15" cols="80" required></textarea><br><br>
+
+      <button type="submit">Generate</button>
+    </form>
+  </body>
+</html>
